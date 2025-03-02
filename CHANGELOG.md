@@ -1,8 +1,33 @@
 # Change Log - @acedatacloud/nexior
 
-This log was last generated on Sat, 01 Mar 2025 18:29:40 GMT and should not be manually modified.
+This log was last generated on Sun, 02 Mar 2025 17:31:58 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.18.1
+
+Sun, 02 Mar 2025 17:31:58 GMT
+
+### Patches
+
+- updated readme (office@acedata.cloud)
+
+## 2.18.0
+
+Sun, 02 Mar 2025 16:58:58 GMT
+
+### Minor changes
+
+- optimize application flow (office@acedata.cloud)
+
+## 2.17.2
+
+Sun, 02 Mar 2025 12:19:34 GMT
+
+### Patches
+
+- fix build issue (office@acedata.cloud)
+- fix docker build (office@acedata.cloud)
 
 ## 2.17.1
 
